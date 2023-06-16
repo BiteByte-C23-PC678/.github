@@ -18,4 +18,4 @@ Wulida Rizki Sania        | C163DSY2708  | Cloud Computing
 Samuel Fernando           | A151DSX2904  | Mobile Development
 
 ## Theme
-Healthcare & Public Health
+Human Healthcare & Public Health
